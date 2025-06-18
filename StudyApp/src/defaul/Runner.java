@@ -28,7 +28,7 @@ public class Runner extends JFrame implements MouseListener, ActionListener, Key
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		new Runner();
 	}
 	
 	public Runner() {
